@@ -15,16 +15,19 @@ django-hvad==1.8.0
 django-model-utils==4.0.0
 django-parler==2.0.1
 django-registration==2.4.1
+django-suit==2.0a1
 djangorestframework==3.11.0
 djorm-ext-pgbytea==0.6.0
 gunicorn==20.0.4
 heroku==0.1.4
+html5lib==1.0.1
 idna==2.9
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 numpy==1.18.1
 Pillow==7.0.0
+pkg-resources==0.0.0
 psycopg2==2.8.4
 psycopg2-binary==2.8.4
 pylint==2.4.4
@@ -32,6 +35,7 @@ python-dateutil==1.5
 pyttsx==1.1
 pytz==2019.3
 requests==2.23.0
+rivescript==1.14.9
 six==1.14.0
 soupsieve==2.0
 sqlparse==0.3.0
